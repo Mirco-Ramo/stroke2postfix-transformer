@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+torch
+torchutils
+tokenizers
+torchmetrics
+coremltools
+python-Levenshtein
+anytree
+h5py
+torchtext
+sqlalchemy
+
+ipython
